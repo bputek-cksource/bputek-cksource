@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔎 Check my private profile - https://github.com/bartoszputek
+🔍 Check my private profile - https://github.com/bartoszputek
 
 <!--
 **bputek-cksource/bputek-cksource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
